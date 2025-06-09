@@ -1,1 +1,0 @@
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://Vladislav-Proshchenkov.github.io/Collapse/)
